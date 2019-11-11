@@ -1,0 +1,13 @@
+= Workbench for MSAL JS and MS Graph API
+
+== Pre-requisite
+- Install node.js if needed (https://nodejs.org/en/)
+
+== Setup
+- Copy `env.js.sample` to `env.js` and insert the ClientId
+- In a command prompt, run `npm install`
+
+== Running the sample
+- In a command prompt, run `npm start`
+- Navigate to http://localhost:30662 with the browser of your choice
+- In the web page, click on the “Login” button

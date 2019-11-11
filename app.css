@@ -1,0 +1,21 @@
+#WelcomeMessage {
+    font-weight: bold;
+}
+
+.result {
+    height: 400px;
+    overflow: scroll;
+}
+
+#json {
+    overflow-wrap: break-word;
+    word-break: break-all;
+    font-size: 1.0rem;
+}
+
+#accessToken {
+    overflow-wrap: break-word;
+    word-break: break-all;
+    font-family: monospace;
+    font-size: 0.8rem;
+}
